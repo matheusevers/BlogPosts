@@ -1,3 +1,8 @@
+## Overview
+
+This app was made to understand and practice a more detailed React App using Thunk. It fetch data from an api called json placeholder, which can be found here:
+  *http://jsonplaceholder.typicode.com/
+  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
